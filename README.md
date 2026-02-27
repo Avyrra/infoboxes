@@ -1,3 +1,6 @@
+![](images/infobox-light.png)
+![](images/infobox-dark.png)
+
 # How to Use
 Insert a callout and change the type to "infobox." Alternatively, you can type "infoboxright" (alias of infobox) or "infoboxleft" if you want it aligned to the left side of the document.
 
