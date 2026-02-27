@@ -7,6 +7,7 @@ To add a label, use an arrow after the label title. `Label Name -> Add informati
 
 If you want to add information without a label, you can use an arrow without text beforehand. `-> Add text here`
 
+Any content added after the callout will be rendered beside it or below it.
 
 # How to Install
 This plugin is not yet on the community plugins browser, however it can still be installed and updated via the BRAT plugin.
